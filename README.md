@@ -45,15 +45,13 @@ Créer des applications simples, utiles et durables, tout en partageant mes conn
 ### 📫 Me contacter
 
 Toujours ouvert aux collaborations, projets et échanges techniques.
-👉 **LinkedIn :** David Hida
-👉 **GitHub :** *tu es déjà ici 🙂*
+👉 **LinkedIn :** _https://www.linkedin.com/in/david-hida/_
 
 
 ---
 
 ## 📊 Statistiques GitHub
 
-> **Remplace `hbddevos` par ton pseudo GitHub.**
 
 ### 🔥 Activité générale
 
